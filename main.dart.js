@@ -77934,10 +77934,10 @@ q=$.wi().pd()?new A.aq(0,100*$.bE.N()/100,0,100*$.de.N()/100-120):new A.aq(0,50*
 p=$.de.N()
 $.ayS()
 o=A.a([],t._x)
-o.push(new A.jO("Ricambio\nil tuo sorriso malizioso.\nLe nostre arie da reduci\nnon ci incantano.","https://lucagaudino.youtrack.cloud/api/files/8-45?sign=MTY5Mjc0ODgwMDAwMHwxLTF8OC00NXxEVlBxWlRHSldGUjd6cXcwRTYtLXQ4VXhWZ2xMWGFpODh5%0D%0ATWxTenBPLWZrDQo%0D%0A&updated=1692470946676",B.e2))
-o.push(new A.jO("Solo una foto,\nnessuna domanda.\nMa so che ricordi\nla vecchia risposta.\n","https://lucagaudino.youtrack.cloud/api/files/8-36?sign=MTY5Mjc0ODgwMDAwMHwxLTF8OC0zNnxEeGdheEhIMGhyWFk5MzhTZ056cGRSUzdpZmhnTGlDV1Bi%0D%0AcHlrOWgwdXF3DQo%0D%0A&updated=1692470384738",B.e2))
-o.push(new A.jO("Pap\xe0,\nma tu mi vuoi bene?\n","https://lucagaudino.youtrack.cloud/api/files/8-37?sign=MTY5Mjc0ODgwMDAwMHwxLTF8OC0zN3w2aTJrX2draGtLWWRYZzRJTHQ2VER5dnMzcG1sX0J4Y0p0%0D%0Ad2JzNVFNMG93DQo%0D%0A&updated=1692470439032",B.e2))
-o.push(new A.jO("Gli abissi degli altri\nsembrano sempre\no\nfrivoli\no\nincomprensibili.\n","https://lucagaudino.youtrack.cloud/api/files/8-48?sign=MTY5Mjc0ODgwMDAwMHwxLTF8OC00OHxSLTQxcTFhNWtTRDVrLTVza0pab3l5LUdTanZhREhUUnN4%0D%0AZ19jZnJKVE9ZDQo%0D%0A&updated=1692471051289",B.e2))
+o.push(new A.jO("Ricambio\nil tuo sorriso malizioso.\nLe nostre arie da reduci\nnon ci incantano.","https://i.imgur.com/o0uGbQr.png",B.e2))
+o.push(new A.jO("Solo una foto,\nnessuna domanda.\nMa so che ricordi\nla vecchia risposta.\n","https://i.imgur.com/F2Udf4s.png",B.e2))
+o.push(new A.jO("Pap\xe0,\nma tu mi vuoi bene?\n","https://i.imgur.com/0yMYcNp.png",B.e2))
+o.push(new A.jO("Gli abissi degli altri\nsembrano sempre\no\nfrivoli\no\nincomprensibili.\n","https://i.imgur.com/IzA73qo.png",B.e2))
 n=t.UN
 n=A.an(new A.ab(o,new A.ait(),n),!0,n.h("bm.E"))
 m=n.length
@@ -77977,7 +77977,7 @@ $.om()
 s=A.bw(A.eE(A.ce("honoo",q,q,q,A.mP(B.bD,24,B.V),B.a9,q),q,q),60,q)
 o=A.b4(a,q,o).w
 r=t.D
-return A.ug(B.aT,A.fY(A.a([p,A.bp(q,A.eE(A.es(A.a([s,A.dl(A.Nz(A.bw(A.ce('Io lo scrivo sempre cos\xec:\nsenza virgolette\ne iniziale minuscola.\nE lo pronuncio "on\xf9",\nsenza aspirazione iniziale.\n\nhonoo \xe8 un progetto multimediale,\narticolato in\nperformance,\nesplorazioni\nlunari\ne viaggi sull\'Isola\ndelle Storie.\n\nNon ci sono profili utenti\nin honoo.\nE non ci sono i "mi piace".\nMa se trovi un honoo\nche ti piace,\npuoi salvarlo nel tuo cuore\ne,\nse ne hai voglia,\npuoi anche fare\nqualcosa in pi\xf9.\n\nO molto di pi\xf9.\n\nSe \xe8 come penso,\nl\'ultima volta\nche ci siamo visti\navevi gli occhi chiusi\ne hai fatto la scelta giusta.\n\nMi chiamo\nVenceslao Cembalo\ne se telefoni al\n3274920811,\npuoi sentire\nun\u2019altra volta\nla mia voce\ne continuare il viaggio.\n\n Se le cose\nstanno\ndiversamente,\nclicca sull\u2019icona della\nhome\nin basso a sinistra.',q,q,q,A.hX(B.i,q,18,q,B.db),B.a9,q),q,o.a.a),q)),A.bw(A.fY(A.a([A.cw(A.cW("assets/icons/home.svg",q,q,"Home",q),60,new A.aiQ(a),q,q)],r),B.a0,B.C),60,q)],r),B.a4,B.bl,B.C),q,q),q,n,q,q,q,q,q),A.dl(A.bp(q,q,q,q,q,q,q,q,q))],r),B.a0,B.C))}}
+return A.ug(B.aT,A.fY(A.a([p,A.bp(q,A.eE(A.es(A.a([s,A.dl(A.Nz(A.bw(A.ce('Io lo scrivo sempre cos\xec:\nsenza virgolette\ne iniziale minuscola.\nE lo pronuncio "on\xf9",\nsenza aspirazione iniziale.\n\nhonoo \xe8 un progetto multimediale,\narticolato in\nperformance\ne laboratori teatrali\nesplorazioni\nlunari\ne viaggi sull\'Isola\ndelle Storie.\n\nNon ci sono profili utenti\nin honoo.\nE non ci sono i "mi piace".\nMa se trovi un honoo\nche ti piace,\npuoi salvarlo nel tuo cuore\ne,\nse ne hai voglia,\npuoi anche fare\nqualcosa in pi\xf9.\n\nO molto di pi\xf9.\n\nSe \xe8 come penso,\nl\'ultima volta\nche ci siamo visti\navevi gli occhi chiusi\ne hai fatto la scelta giusta.\n\nMi chiamo\nVenceslao Cembalo\ne se telefoni al\n3274920811,\npuoi sentire\nun\u2019altra volta\nla mia voce\ne continuare il viaggio.\n\n Se le cose\nstanno\ndiversamente,\nclicca sull\u2019icona della\nhome\nin basso a sinistra.',q,q,q,A.hX(B.i,q,18,q,B.db),B.a9,q),q,o.a.a),q)),A.bw(A.fY(A.a([A.cw(A.cW("assets/icons/home.svg",q,q,"Home",q),60,new A.aiQ(a),q,q)],r),B.a0,B.C),60,q)],r),B.a4,B.bl,B.C),q,q),q,n,q,q,q,q,q),A.dl(A.bp(q,q,q,q,q,q,q,q,q))],r),B.a0,B.C))}}
 A.aiQ.prototype={
 $0(){var s=A.eL(new A.aiP(),null,t.z)
 A.cQ(this.a).dq(s)},
