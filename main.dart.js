@@ -83511,7 +83511,7 @@ m=A.bK(30,A.bA(A.bv(j,j,B.k,B.m7,j,j,j,j,j,j),20,m.a.a),j,j,j,j,j,j)
 q=A.b6(a,j,n).w
 q=A.bK(0,A.bA(A.bv(j,j,B.k,B.il,j,j,j,j,j,j),30,q.a.a),j,j,j,j,j,j)
 k=A.b6(a,j,n).w
-k=A.bK(-16,A.cj(j,A.cI("assets/icons/isoladellestorie/island.svg",B.i,90,"Island",90),90,new A.aj2(a),1,j),j,j,k.a.a/2-200,j,j,j)
+k=A.bK(-16,A.cj(j,A.cI("assets/icons/isoladellestorie/island.svg",B.i,180,"Island",180),180,new A.aj2(a),1,j),j,j,k.a.a/2-200,j,j,j)
 n=A.b6(a,j,n).w
 return A.un(B.aU,A.ej(A.a([s,r,A.bA(A.hL(B.b3,A.a([p,o,m,q,k,A.bK(-20,A.cj(j,A.cI("assets/icons/chest.svg",j,j,"Chest",j),70,new A.aj3(a),40,j),j,j,n.a.a/2-40,j,j,j)],l),B.O,B.b2),105,j)],l),B.ah,B.aa,B.F))}}
 A.aj_.prototype={
