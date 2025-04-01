@@ -105,12 +105,13 @@ const RESOURCES = {"canvaskit/skwasm.worker.js": "23be0fdafa5ddef67734292a576f8f
 "assets/shaders/ink_sparkle.frag": "57f2f020e63be0dd85efafc7b7b25d80",
 "assets/fonts/MaterialIcons-Regular.otf": "9b17d55a1e57eb9a9f261fdfd5417945",
 "main.dart.js": "5f10c1832166cf423899fa1818698ec5",
-"honoo-favicon_48X48.png": "ef17724e0caeefe32b66eb71b36265a5",
-"index.html": "c2f9d1e4b2936fb7e8036a673e7d1b46",
-"/": "c2f9d1e4b2936fb7e8036a673e7d1b46",
+"index.html": "3aaec55b9cc40165d5008840c8ff7109",
+"/": "3aaec55b9cc40165d5008840c8ff7109",
 "version.json": "36ebf088e792919511c898d53ed38677",
-"manifest.json": "83212cc84bbe19d7c3dd0d60ef50a0ad",
-"favicon.png": "c0eca68081e094b1b54209b2e81a5f5f",
+"manifest.json": "d0b5321573f221888d97824533679ed9",
+"icons/honoo_icon-192.png": "35b2fb81cb2d422be558c6c7921f597a",
+"icons/honoo_icon-512.png": "9ffa8db87af77fe122309e4aeed54971",
+"icons/honoo_icon-48.png": "ef17724e0caeefe32b66eb71b36265a5",
 "flutter.js": "6fef97aeca90b426343ba6c5c9dc5d4a"};
 // The application shell files that are downloaded before a service worker can
 // start.
